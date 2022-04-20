@@ -59,6 +59,10 @@
 </a>
 
 
+### Support Me
+
+<a href="https://www.buymeacoffee.com/nokibrokes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
